@@ -1,1 +1,2 @@
 # STOPWATCH
+A stopwatch project using JavaScript allows users to start, stop, and reset a timer. It typically tracks time in seconds and milliseconds using JavaScript's setInterval function. The interface includes buttons for starting, stopping, and resetting the stopwatch. JavaScript manipulates the DOM to display the time dynamically. It’s an excellent beginner project for practicing event handling and timing functions in JS.
